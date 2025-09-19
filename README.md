@@ -1,3 +1,13 @@
+# Configuración del proyecto 
+
+## Requisitos
+```
+- Php 8.2.7
+- MariaDB 10.5.21
+- Laravel 12.18.0
+- Nodejs version 22 
+```
+
 app/
 ├── Http/
 │   ├── Controllers/
